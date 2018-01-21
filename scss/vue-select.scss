@@ -108,7 +108,7 @@ $selected-tag-bg: $primary !default;
   display: block;
   padding: 0;
   background: none;
-  border-bottom: $dropdown-border-width solid $dropdown-border-color;
+  border: $dropdown-border-width solid $dropdown-border-color;
   white-space: normal;
 }
 .v-select .dropdown-toggle:after {
