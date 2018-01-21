@@ -1,7 +1,3 @@
-<style lang="scss">
-@import '../../scss/vue-select.scss';
-</style>
-
 <template>
   <div :dir="dir" class="dropdown v-select" :class="dropdownClasses">
     <div ref="toggle" @mousedown.prevent="toggleDropdown" :class="['dropdown-toggle', 'clearfix']">
