@@ -107,7 +107,7 @@ $selected-tag-bg: $primary !default;
   appearance: none;
   display: block;
   padding: 0;
-  background: none;
+  background: $dropdown-bg;
   border: $dropdown-border-width solid $dropdown-border-color;
   white-space: normal;
 }
