@@ -174,7 +174,6 @@ $selected-tag-bg: $primary !default;
 .v-select .selected-tag {
   color: $selected-tag-color;
   background-color: $selected-tag-bg;
-  border: 1px solid #ccc;
   border-radius: $dropdown-border-radius;
   height: 26px;
   margin: 4px 1px 0px 3px;
