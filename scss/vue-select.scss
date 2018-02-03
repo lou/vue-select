@@ -79,7 +79,7 @@ $selected-tag-bg: $primary !default;
 .v-select .open-indicator:before {
   border-color: rgba(60, 60, 60, .5);
   border-style: solid;
-  border-width: 3px 3px 0 0;
+  border-width: 1px 1px 0 0;
   content: '';
   display: inline-block;
   height: 10px;
