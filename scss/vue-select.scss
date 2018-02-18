@@ -260,6 +260,9 @@ $selected-tag-bg: $primary !default;
 .v-select li:hover {
   cursor: pointer;
 }
+.v-select .dropdown-menu li a {
+  color: $dropdown-link-color;
+}
 .v-select .dropdown-menu .active > a {
   color: $dropdown-link-active-color;
   background: $dropdown-link-active-bg;
